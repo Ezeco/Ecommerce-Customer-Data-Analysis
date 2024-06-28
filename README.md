@@ -18,19 +18,19 @@ This project involves:
 ## Data Sources
 ### Dataset Description
 The dataset includes information about customer demographics, purchase behavior, and satisfaction scores. The key columns in the dataset are:
-id
-age
-gender
-income
-education
-region
-loyalty_status
-purchase_frequency
-purchase_amount
-product_category
-promotion_usage
-satisfaction_score
-age_group
+id,
+age,
+gender,
+income,
+education,
+region,
+loyalty_status,
+purchase_frequency,
+purchase_amount,
+product_category,
+promotion_usage,
+satisfaction_score,
+age_group,
 income_group
 
 ## Tools and Technologies
